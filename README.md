@@ -12,3 +12,9 @@ Metacello new
     repository: 'github://EiichiroIto/Box2DLiteForPharo/src';
     load.
 ```
+# Demo
+To try demos, run the following script.
+
+```Smalltalk
+B2Demo new open.
+```
