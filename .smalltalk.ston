@@ -1,0 +1,9 @@
+SmalltalkCISpec {
+  #loading : [
+    SCIMetacelloLoadSpec {
+      #baseline : 'Box2DLite',
+      #directory : 'src',
+      #platforms : [ #pharo ]
+    }
+  ]
+}
