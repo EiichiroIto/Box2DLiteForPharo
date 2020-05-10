@@ -2,6 +2,7 @@
 [![Build Status](https://travis-ci.com/EiichiroIto/Box2DLiteForPharo.svg?branch=master)](https://travis-ci.com/EiichiroIto/Box2DLiteForPharo)
 
 A port of Box2D Lite to Pharo Smalltalk
+(originally developed by https://github.com/erincatto/box2d-lite)
 
 ![Entire Screen1](https://raw.githubusercontent.com/EiichiroIto/Box2DLiteForPharo/master/images/box2dlite.png)
 
