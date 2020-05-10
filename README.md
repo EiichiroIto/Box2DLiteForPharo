@@ -3,6 +3,8 @@
 
 A port of Box2D Lite to Pharo Smalltalk
 
+![Entire Screen1](https://raw.githubusercontent.com/EiichiroIto/Box2DLiteForPharo/master/images/box2dlite.png)
+
 # How to install
 To install this project, run the following script in a Pharo 8.0 image.
 
